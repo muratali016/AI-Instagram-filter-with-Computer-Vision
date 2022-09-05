@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 python opencv_face.py
 ```
-* You can extend the celebrity database to get more accurate results
+* You can extend the celebrity database ("faces" folder) to get more accurate results
 
 ### References
 * https://github.com/ageitgey/face_recognition
