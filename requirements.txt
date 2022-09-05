@@ -1,0 +1,2 @@
+face_recognition==1.2.2
+opencv_python==4.6.0.66
