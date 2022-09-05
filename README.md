@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/77502485/188356192-c65f041a-c94b-47da-
 * **The most similar celebrity to the user will get shown on the screen**
 * **Code can run on Both (CPU & GPU)**
 
-## Only 2 Steps to setup
+## Only 2 steps to setup
 
 **1- Install requesting files**
 ```
