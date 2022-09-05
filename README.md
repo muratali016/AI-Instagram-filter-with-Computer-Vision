@@ -4,7 +4,7 @@
 https://user-images.githubusercontent.com/77502485/188356192-c65f041a-c94b-47da-b6ee-269eb4bd6e2e.mp4
 
 
-# Features
+## Features
 * **This AI filter was created by using Face_recognition and OpenCV**
 * **Filter takes your photo and compares it to database photos**
 * **The most similar celebrity to the user will get shown on the screen**
